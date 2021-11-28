@@ -1,1 +1,1 @@
-cmd /k git pull
+cmd /c git pull
