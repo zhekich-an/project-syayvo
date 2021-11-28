@@ -1,1 +1,1 @@
-cmd /c git pull
+cmd /c git pull && start %~dp0\Syayvo.exe
